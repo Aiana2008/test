@@ -1,0 +1,28 @@
+.borde {
+height: 2px;
+width:90%;
+background-color: white;
+}
+body {
+height: 200px;
+background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+b {
+  height: 80px;
+   width: 80px;
+}
+img {
+  margin-top:30px;
+}
+form {
+  margin-top: 100px;
+}
+h2 {
+  font-size: 30px;
+}
+ul{
+	list-style-type: none;
+	width:500px;
+	margin-top:30px;
+  padding-top: 20px;
+}
